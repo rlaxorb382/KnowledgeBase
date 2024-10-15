@@ -1,3 +1,14 @@
+!sooplive
+vod-player001.sooplive.co.kr
+vod-player002.sooplive.co.kr
+vod-player002.sooplive.co.kr
+vod-player003.sooplive.co.kr
+main-player.sooplive.co.kr
+img-display.sooplive.co.kr
+
+sooplive.co.kr##.click_area
+sooplive.co.kr##.left.a_d_left.Advertising_Output_Area
+sooplive.co.kr##.Advertising_Output_Area
 ---
 title: User rules
 sidebar_position: 4
